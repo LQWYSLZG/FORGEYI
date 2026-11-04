@@ -59,7 +59,7 @@ footer{flex-wrap:wrap;gap:12px}
 
 .about{
   background-color:#191925;
-  background-image:url("assets/board-traces.svg"),radial-gradient(ellipse at 80% 10%,#332b494d,transparent 65%),linear-gradient(110deg,#222131,#161822);
+  background-image:url("board-traces.svg"),radial-gradient(ellipse at 80% 10%,#332b494d,transparent 65%),linear-gradient(110deg,#222131,#161822);
 }
 .studio-cards article{container-type:inline-size}
 .studio-cards article:nth-child(2) h3{font-size:clamp(20px,10cqi,36px);white-space:nowrap}
